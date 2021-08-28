@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: indigo;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: indigo;
+}
+.main{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+}
+.sidebar{
+    padding: 20px;
+}
+.link{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.card{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: indigo;
+    padding: 50px;
+    border-radius: 20px;
+}
+table{
+    border: white;
+    width: 1000px;
+}
